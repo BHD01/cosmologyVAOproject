@@ -1,0 +1,62 @@
+torch.Size([7200, 1, 20, 40])
+torch.Size([7200, 2])
+训练集: 7200 样本, 数据形状 torch.Size([1, 20, 40])
+验证集: 900 样本, 数据形状 torch.Size([1, 20, 40])
+测试集: 900 样本, 数据形状 torch.Size([1, 20, 40])
+Epoch 1/50, Train Loss: 1.3248, Train MAE klw: 0.5844, Train MAE mcool: 0.7188, Valid Loss: 1.1931, Valid MAE klw: 0.5952, Valid MAE mcool: 0.6909
+Epoch 2/50, Train Loss: 1.0960, Train MAE klw: 0.5438, Train MAE mcool: 0.6733, Valid Loss: 1.2087, Valid MAE klw: 0.5910, Valid MAE mcool: 0.7091
+Epoch 3/50, Train Loss: 1.0774, Train MAE klw: 0.5405, Train MAE mcool: 0.6644, Valid Loss: 1.3078, Valid MAE klw: 0.5898, Valid MAE mcool: 0.7391
+Epoch 4/50, Train Loss: 1.0518, Train MAE klw: 0.5365, Train MAE mcool: 0.6519, Valid Loss: 1.1586, Valid MAE klw: 0.5839, Valid MAE mcool: 0.6873
+Epoch 5/50, Train Loss: 1.0227, Train MAE klw: 0.5355, Train MAE mcool: 0.6353, Valid Loss: 1.2314, Valid MAE klw: 0.5665, Valid MAE mcool: 0.7243
+Epoch 6/50, Train Loss: 1.0064, Train MAE klw: 0.5313, Train MAE mcool: 0.6269, Valid Loss: 1.0744, Valid MAE klw: 0.5871, Valid MAE mcool: 0.6250
+Epoch 7/50, Train Loss: 0.9668, Train MAE klw: 0.5284, Train MAE mcool: 0.6052, Valid Loss: 1.1772, Valid MAE klw: 0.5751, Valid MAE mcool: 0.6918
+Epoch 8/50, Train Loss: 0.9963, Train MAE klw: 0.5397, Train MAE mcool: 0.6119, Valid Loss: 0.9658, Valid MAE klw: 0.5536, Valid MAE mcool: 0.5771
+Epoch 9/50, Train Loss: 0.9217, Train MAE klw: 0.5157, Train MAE mcool: 0.5868, Valid Loss: 0.9012, Valid MAE klw: 0.5185, Valid MAE mcool: 0.5680
+Epoch 10/50, Train Loss: 0.8720, Train MAE klw: 0.5053, Train MAE mcool: 0.5632, Valid Loss: 0.9599, Valid MAE klw: 0.5486, Valid MAE mcool: 0.5798
+Epoch 11/50, Train Loss: 0.8357, Train MAE klw: 0.4952, Train MAE mcool: 0.5498, Valid Loss: 0.8558, Valid MAE klw: 0.4695, Valid MAE mcool: 0.5932
+Epoch 12/50, Train Loss: 0.7306, Train MAE klw: 0.4689, Train MAE mcool: 0.5023, Valid Loss: 0.6990, Valid MAE klw: 0.4630, Valid MAE mcool: 0.4761
+Epoch 13/50, Train Loss: 0.7229, Train MAE klw: 0.4658, Train MAE mcool: 0.5024, Valid Loss: 0.7808, Valid MAE klw: 0.5166, Valid MAE mcool: 0.4657
+Epoch 14/50, Train Loss: 0.7101, Train MAE klw: 0.4597, Train MAE mcool: 0.4933, Valid Loss: 0.7155, Valid MAE klw: 0.4976, Valid MAE mcool: 0.4688
+Epoch 15/50, Train Loss: 0.6380, Train MAE klw: 0.4395, Train MAE mcool: 0.4633, Valid Loss: 0.6385, Valid MAE klw: 0.4606, Valid MAE mcool: 0.4589
+Epoch 16/50, Train Loss: 0.6060, Train MAE klw: 0.4285, Train MAE mcool: 0.4507, Valid Loss: 0.6255, Valid MAE klw: 0.4234, Valid MAE mcool: 0.4409
+Epoch 17/50, Train Loss: 0.5872, Train MAE klw: 0.4197, Train MAE mcool: 0.4417, Valid Loss: 0.5408, Valid MAE klw: 0.4443, Valid MAE mcool: 0.3906
+Epoch 18/50, Train Loss: 0.5825, Train MAE klw: 0.4195, Train MAE mcool: 0.4391, Valid Loss: 0.4878, Valid MAE klw: 0.4009, Valid MAE mcool: 0.3702
+Epoch 19/50, Train Loss: 0.5247, Train MAE klw: 0.4001, Train MAE mcool: 0.4142, Valid Loss: 0.5518, Valid MAE klw: 0.3811, Valid MAE mcool: 0.4149
+Epoch 20/50, Train Loss: 0.5466, Train MAE klw: 0.4088, Train MAE mcool: 0.4175, Valid Loss: 0.4403, Valid MAE klw: 0.3537, Valid MAE mcool: 0.3571
+Epoch 21/50, Train Loss: 0.5181, Train MAE klw: 0.3939, Train MAE mcool: 0.4097, Valid Loss: 0.5289, Valid MAE klw: 0.3819, Valid MAE mcool: 0.4148
+Epoch 22/50, Train Loss: 0.4946, Train MAE klw: 0.3827, Train MAE mcool: 0.4044, Valid Loss: 0.4556, Valid MAE klw: 0.3686, Valid MAE mcool: 0.3803
+Epoch 23/50, Train Loss: 0.4705, Train MAE klw: 0.3741, Train MAE mcool: 0.3884, Valid Loss: 0.4032, Valid MAE klw: 0.3665, Valid MAE mcool: 0.3387
+Epoch 24/50, Train Loss: 0.4857, Train MAE klw: 0.3813, Train MAE mcool: 0.3924, Valid Loss: 0.4660, Valid MAE klw: 0.3658, Valid MAE mcool: 0.3935
+Epoch 25/50, Train Loss: 0.4555, Train MAE klw: 0.3683, Train MAE mcool: 0.3812, Valid Loss: 0.4196, Valid MAE klw: 0.3673, Valid MAE mcool: 0.3669
+Epoch 26/50, Train Loss: 0.4381, Train MAE klw: 0.3578, Train MAE mcool: 0.3755, Valid Loss: 0.4080, Valid MAE klw: 0.3592, Valid MAE mcool: 0.3273
+Epoch 27/50, Train Loss: 0.4449, Train MAE klw: 0.3633, Train MAE mcool: 0.3763, Valid Loss: 0.5074, Valid MAE klw: 0.3515, Valid MAE mcool: 0.4366
+Epoch 28/50, Train Loss: 0.4170, Train MAE klw: 0.3493, Train MAE mcool: 0.3655, Valid Loss: 0.4537, Valid MAE klw: 0.3732, Valid MAE mcool: 0.3434
+Epoch 29/50, Train Loss: 0.4223, Train MAE klw: 0.3492, Train MAE mcool: 0.3673, Valid Loss: 0.3864, Valid MAE klw: 0.3428, Valid MAE mcool: 0.3062
+Epoch 30/50, Train Loss: 0.4226, Train MAE klw: 0.3535, Train MAE mcool: 0.3675, Valid Loss: 0.3345, Valid MAE klw: 0.3195, Valid MAE mcool: 0.2946
+Epoch 31/50, Train Loss: 0.4174, Train MAE klw: 0.3466, Train MAE mcool: 0.3651, Valid Loss: 0.3944, Valid MAE klw: 0.3387, Valid MAE mcool: 0.3408
+Epoch 32/50, Train Loss: 0.4064, Train MAE klw: 0.3435, Train MAE mcool: 0.3572, Valid Loss: 0.3682, Valid MAE klw: 0.3381, Valid MAE mcool: 0.3156
+Epoch 33/50, Train Loss: 0.3915, Train MAE klw: 0.3360, Train MAE mcool: 0.3525, Valid Loss: 0.3398, Valid MAE klw: 0.3104, Valid MAE mcool: 0.3181
+Epoch 34/50, Train Loss: 0.3682, Train MAE klw: 0.3277, Train MAE mcool: 0.3381, Valid Loss: 0.3482, Valid MAE klw: 0.3418, Valid MAE mcool: 0.3083
+Epoch 35/50, Train Loss: 0.3711, Train MAE klw: 0.3286, Train MAE mcool: 0.3420, Valid Loss: 0.3267, Valid MAE klw: 0.3133, Valid MAE mcool: 0.2996
+Epoch 36/50, Train Loss: 0.3684, Train MAE klw: 0.3311, Train MAE mcool: 0.3380, Valid Loss: 0.4120, Valid MAE klw: 0.3670, Valid MAE mcool: 0.3040
+Epoch 37/50, Train Loss: 0.3666, Train MAE klw: 0.3261, Train MAE mcool: 0.3391, Valid Loss: 0.3056, Valid MAE klw: 0.2953, Valid MAE mcool: 0.2896
+Epoch 38/50, Train Loss: 0.3599, Train MAE klw: 0.3233, Train MAE mcool: 0.3370, Valid Loss: 0.3245, Valid MAE klw: 0.3184, Valid MAE mcool: 0.3017
+Epoch 39/50, Train Loss: 0.3528, Train MAE klw: 0.3224, Train MAE mcool: 0.3284, Valid Loss: 0.5066, Valid MAE klw: 0.3431, Valid MAE mcool: 0.4223
+Epoch 40/50, Train Loss: 0.3628, Train MAE klw: 0.3282, Train MAE mcool: 0.3371, Valid Loss: 0.3235, Valid MAE klw: 0.3219, Valid MAE mcool: 0.3011
+Epoch 41/50, Train Loss: 0.3505, Train MAE klw: 0.3190, Train MAE mcool: 0.3310, Valid Loss: 0.3147, Valid MAE klw: 0.3176, Valid MAE mcool: 0.2904
+Epoch 42/50, Train Loss: 0.3415, Train MAE klw: 0.3173, Train MAE mcool: 0.3256, Valid Loss: 0.2945, Valid MAE klw: 0.3017, Valid MAE mcool: 0.2777
+Epoch 43/50, Train Loss: 0.3317, Train MAE klw: 0.3144, Train MAE mcool: 0.3189, Valid Loss: 0.3551, Valid MAE klw: 0.3337, Valid MAE mcool: 0.3352
+Epoch 44/50, Train Loss: 0.3414, Train MAE klw: 0.3212, Train MAE mcool: 0.3194, Valid Loss: 0.3308, Valid MAE klw: 0.3338, Valid MAE mcool: 0.3171
+Epoch 45/50, Train Loss: 0.3446, Train MAE klw: 0.3204, Train MAE mcool: 0.3215, Valid Loss: 0.3157, Valid MAE klw: 0.3130, Valid MAE mcool: 0.2901
+Epoch 46/50, Train Loss: 0.3519, Train MAE klw: 0.3199, Train MAE mcool: 0.3319, Valid Loss: 0.4186, Valid MAE klw: 0.3608, Valid MAE mcool: 0.3398
+Epoch 47/50, Train Loss: 0.3423, Train MAE klw: 0.3197, Train MAE mcool: 0.3228, Valid Loss: 0.3471, Valid MAE klw: 0.3256, Valid MAE mcool: 0.3138
+Epoch 48/50, Train Loss: 0.3420, Train MAE klw: 0.3162, Train MAE mcool: 0.3245, Valid Loss: 0.4325, Valid MAE klw: 0.3489, Valid MAE mcool: 0.3470
+Epoch 49/50, Train Loss: 0.3287, Train MAE klw: 0.3131, Train MAE mcool: 0.3176, Valid Loss: 0.3094, Valid MAE klw: 0.3046, Valid MAE mcool: 0.3045
+Epoch 50/50, Train Loss: 0.3615, Train MAE klw: 0.3212, Train MAE mcool: 0.3374, Valid Loss: 0.3283, Valid MAE klw: 0.3248, Valid MAE mcool: 0.3007
+Test Loss: 0.3447, Test MAE klw: 0.3287, Test MAE mcool: 0.3103
+部分测试集预测值与真实值（klw, mcool）：
+样本 1: 预测值=[0.6401, 9.3295e+04], 真实值=[0.2300, 1.1900e+05]
+样本 2: 预测值=[2.0928, 3.2763e+05], 真实值=[1.7000, 3.4700e+05]
+样本 3: 预测值=[3.2152, 2.5234e+05], 真实值=[3.0000, 2.3200e+05]
+样本 4: 预测值=[1.6540, 1.3393e+05], 真实值=[1.0200, 1.4100e+05]
+样本 5: 预测值=[1.0835, 1.7175e+05], 真实值=[0.3200, 2.2900e+05]
